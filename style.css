@@ -530,6 +530,7 @@ img { max-width: 100%; display: block; }
   font-weight: 700;
   margin-bottom: 14px;
 }
+.cert-badge .icon { width: 18px; height: 18px; stroke-width: 2.2; }
 .cert-card h3 { font-size: 0.92rem; color: var(--text); margin: 0 0 6px; line-height: 1.35; }
 .cert-issuer { font-size: 0.8rem; color: var(--text-muted); }
 .cert-note { font-size: 0.85rem; color: var(--text-muted); margin: 0; }
